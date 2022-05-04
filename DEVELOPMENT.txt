@@ -1,0 +1,9 @@
+Week1: We first decide to the anime list search enigne, but we find it's really hard to implement graph algorithm. 
+Therefore, we decide to change our project to find shortest path between 2 airports using OpenFlight csv dataset, 
+BFS traversal, A-Start Search algorithm, and Floyd Warshall algorithm. csv dataset, main.cpp, airport.h commit to git.
+Week2: Thanksgiving break, no work complete during this week.
+Week3: Since we find that our main.cpp still have some issue running on ews, we delete the main.cpp. After the group meeting, 
+we decide that combine all the code together into main.cpp is really hard to debug, so this time we break it down into serval pieces to upload. 
+Besides this, this week we finish bfs traversal and astar algorithm, start debuging on Floyd Warshall algorithm and upload the small airline csv dataset for Floyd Warshall algorithm. 
+Week4: We finish Floyd Warshall algorithm, test case, utils.cpp, and utils.h. We update Makefile, main.cpp, and airports.csv. The program is able to run correctly.  
+We upload the final video, the result of the program, README.md, and upload the pdf version of the weekly development. 
